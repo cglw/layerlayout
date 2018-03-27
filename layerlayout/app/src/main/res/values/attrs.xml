@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LayerParams">
+        <!-- 自定义的属性名称 和对应的单位 -->
+        <attr name="layer" format="integer"/>
+    </declare-styleable>
+</resources>
